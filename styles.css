@@ -27,6 +27,7 @@
     border: 1px solid black;
 }
 .margin{
+	background-color: rgb(173, 216, 230);
     display: flex;
     width: 300px;
     height: 257.5px;
