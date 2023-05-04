@@ -3,7 +3,7 @@
 .content{
     display: flex;
     width: 300px;
-    background-color: lightblue;
+    background-color: rgb(173, 216, 230);
     border: 1px solid black;
     justify-content: center;
     align-items: center;
@@ -11,7 +11,7 @@
 .padding{
     width: 300px;
     height: 187.5px;
-    background-color: lightblue;
+    background-color: rgb(173, 216, 230);
     border: 1px solid black;
     display: flex;
     align-items: center;
@@ -20,7 +20,7 @@
 .border{
     display: flex;
     width: 300px;
-    background-color: blue;
+    background-color: rgb(173, 216, 230);
     height: 217.5px;
     justify-content: center;
     align-items: center;
