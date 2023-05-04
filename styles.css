@@ -9,7 +9,7 @@
     align-items: center;
 }
 .padding{
-    width: 400px;
+    width: 300px;
     height: 187.5px;
     background-color: lightblue;
     border: 1px solid black;
@@ -19,7 +19,7 @@
 }
 .border{
     display: flex;
-    width: 430px;
+    width: 300px;
     background-color: blue;
     height: 217.5px;
     justify-content: center;
@@ -28,7 +28,7 @@
 }
 .margin{
     display: flex;
-    width: 470px;
+    width: 300px;
     height: 257.5px;
     justify-content: center;
     align-items: center;
