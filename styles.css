@@ -1,2 +1,36 @@
 
 /* Your CSS Code here. */
+.content{
+    display: flex;
+    width: 300px;
+    background-color: lightblue;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+}
+.padding{
+    width: 400px;
+    height: 187.5px;
+    background-color: lightblue;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.border{
+    display: flex;
+    width: 430px;
+    background-color: blue;
+    height: 217.5px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+.margin{
+    display: flex;
+    width: 470px;
+    height: 257.5px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
